@@ -1,0 +1,24 @@
+/*
+* File: App.java
+* Author: Kovács Attila
+* Copyright: 2023.04.04,Kovács Attila
+* Group: Szoft 1
+* Date: 2023-04-04
+* Github: https://github.com/Attila732/dolgozat1
+* Licenc: GNU GPL
+*/
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\diak\\KA\\openjfx-20_windows-x64_bin-sdk\\javafx-sdk-20\\lib\\javafx.base.jar",
+        "c:\\Users\\diak\\KA\\openjfx-20_windows-x64_bin-sdk\\javafx-sdk-20\\lib\\javafx.controls.jar",
+        "c:\\Users\\diak\\KA\\openjfx-20_windows-x64_bin-sdk\\javafx-sdk-20\\lib\\javafx.fxml.jar",
+        "c:\\Users\\diak\\KA\\openjfx-20_windows-x64_bin-sdk\\javafx-sdk-20\\lib\\javafx.graphics.jar",
+        "c:\\Users\\diak\\KA\\openjfx-20_windows-x64_bin-sdk\\javafx-sdk-20\\lib\\javafx.media.jar",
+        "c:\\Users\\diak\\KA\\openjfx-20_windows-x64_bin-sdk\\javafx-sdk-20\\lib\\javafx.swing.jar",
+        "c:\\Users\\diak\\KA\\openjfx-20_windows-x64_bin-sdk\\javafx-sdk-20\\lib\\javafx.web.jar",
+        "c:\\Users\\diak\\KA\\openjfx-20_windows-x64_bin-sdk\\javafx-sdk-20\\lib\\javafx-swt.jar"
+    ]
+}
